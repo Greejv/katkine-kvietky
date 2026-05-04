@@ -1,0 +1,49 @@
+.plant-list-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  padding-top: 3rem;
+}
+
+@media (min-width: 1024px) {
+  .plant-list-layout {
+    grid-template-columns: 280px 1fr;
+  }
+}
+
+.plant-list-section {
+  padding: 0;
+}
+
+.list-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.header-text {
+  max-width: 600px;
+}
+
+.header-text h1 {
+  margin-bottom: 0.5rem;
+}
+
+.plant-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--gutter);
+}
+
+@media (min-width: 640px) {
+  .plant-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1440px) {
+  .plant-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
