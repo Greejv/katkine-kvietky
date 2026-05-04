@@ -8,29 +8,26 @@
         "name": "Magnólia veľkokvetá (Magnolia grandiflora)",
         "flags": [],
         "systematics": {
-          "Ríša": "Rastliny (Plantae)",
-          "Oddelenie": "Magnoliorasty (Magnoliophyta)",
-          "Trieda": "Dvojklíčnolistové (Magnoliopsida)",
           "Čeľaď": "Magnóliovité (Magnoliaceae)",
           "Rod": "Magnólia (Magnolia)",
           "Druh": "Magnólia veľkokvetá (Magnolia grandiflora)"
         },
         "morphology": [
-          "Mohutný stálozelený strom, v pôvodnom areáli dosahuje výšku 20–30 m.",
-          "Listy: väčšie, kožovité, lesklé, na spodnej strane husto hnedo-plstnaté.",
-          "Kvety: veľmi veľké (priemer 15–25 cm), biele, s intenzívnou vôňou, s mnohými tyčinkami a piestikmi."
+          "Mohutný stálozelený strom, dosahuje výšku 20–30 m.",
+          "Listy: veľké, kožovité, lesklé, na spodnej strane husto hnedo-plstnaté.",
+          "Kvety: biele, veľmi veľké (15–25 cm), s intenzívnou citrónovou vôňou."
         ],
         "occurrence": [
-          "Pôvodná oblasť: juhovýchodná časť Severnej Ameriky.",
-          "V Európe sa pestuje v parkoch a záhradách ako okrasná drevina."
+          "Pôvodom z juhovýchodu USA.",
+          "V Európe sa pestuje v parkoch a záhradách mierneho pásma."
         ],
         "usage": [
-          "Predovšetkým OKRASNÝ strom.",
-          "Z kvetov sa extrahujú éterické oleje využívané v parfumérii.",
-          "Drevo je kvalitné, využíva sa na výrobu nábytku."
+          "Okrasná drevina.",
+          "Éterické oleje v parfumérii.",
+          "Kvalitné drevo na nábytok."
         ],
         "interestingFacts": [
-          "Jej kvety sa vyvinuli evolučne pred výskytom včiel, preto sú prispôsobené na opelenie chrobákmi."
+          "Kvety sa vyvinuli pred včelami, opeľujú ich chrobáky."
         ]
       },
       {
@@ -40,23 +37,93 @@
         "systematics": {
           "Čeľaď": "Magnóliovité (Magnoliaceae)",
           "Rod": "Ľaliovník (Liriodendron)",
-          "Druh": "Ľaliovník tulipánokvetý (Liriodendron tulipifera)"
+          "Druh": "Ľaliovník tulipánokvetý"
         },
         "morphology": [
-          "Majestátny opadavý strom, výška 25–35 m.",
-          "Listy: jedinečne tvarované, 4-laločné, pripomínajúce lýru.",
-          "Kvety: veľké, žltozelené s oranžovým pruhom, tvarom pripomínajú tulipán."
+          "Rýchlo rastúci opadavý strom, výška 25–35 m.",
+          "Listy: lýrovité, so štyrmi lalokmi.",
+          "Kvety: žltozelené s oranžovým pruhom, pripomínajú tulipány."
         ],
         "occurrence": [
-          "Pôvodom zo Severnej Ameriky.",
-          "V Európe obľúbená okrasná drevina v parkoch."
+          "Východná časť Severnej Ameriky.",
+          "Často vysádzaný v európskych parkoch."
         ],
         "usage": [
-          "Okrasná drevina.",
-          "Drevo (yellow poplar) je ľahké a ľahko opracovateľné."
+          "Okrasný strom.",
+          "Drevo je ľahké a cenené v stolárstve."
         ],
         "interestingFacts": [
-          "Patrí k veľmi starým rodom, ktorých predkovia existovali už v treťohorách."
+          "Jeden z najstarších žijúcich rodov kvitnúcich rastlín."
+        ]
+      },
+      {
+        "id": "1-3",
+        "name": "Šácholan hviezdokvetý (Magnolia stellata)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Magnóliovité (Magnoliaceae)",
+          "Rod": "Magnólia (Magnolia)",
+          "Druh": "Šácholan hviezdokvetý"
+        },
+        "morphology": [
+          "Pomaly rastúci ker, výška 2,5–3 m.",
+          "Kvety: hviezdicovité, snehobiele, voňavé, s 15–20 úzkymi lístkami."
+        ],
+        "occurrence": [
+          "Pôvodom z Japonska.",
+          "Obľúbený v malých záhradách kvôli kompaktnému rastu."
+        ],
+        "usage": [
+          "Okrasná drevina."
+        ],
+        "interestingFacts": [
+          "Kvitne veľmi skoro na jar, často ešte pred olistením."
+        ]
+      },
+      {
+        "id": "1-4",
+        "name": "Šácholan japonský (Magnolia kobus)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Magnóliovité (Magnoliaceae)",
+          "Rod": "Magnólia (Magnolia)",
+          "Druh": "Šácholan japonský"
+        },
+        "morphology": [
+          "Stredne veľký strom, v kultúre 7–10 m.",
+          "Kvety: biele, zvonkovité, vzpriamené."
+        ],
+        "occurrence": [
+          "Japonsko a Kórea, horské lesy."
+        ],
+        "usage": [
+          "Okrasná drevina, odolná voči mrazu."
+        ],
+        "interestingFacts": [
+          "Považovaná za najmrazuvzdornejšiu magnóliu."
+        ]
+      },
+      {
+        "id": "1-5",
+        "name": "Šácholan ľaliokvetý (Magnolia liliiflora)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Magnóliovité (Magnoliaceae)",
+          "Rod": "Magnólia (Magnolia)",
+          "Druh": "Šácholan ľaliokvetý"
+        },
+        "morphology": [
+          "Husto rozkonárený opadavý ker, výška do 4 m.",
+          "Kvety: úzke, kalichovité, zvonku tmavoružové až fialové, zvnútra biele."
+        ],
+        "occurrence": [
+          "Pôvodom z Číny, u nás bežne pestovaný."
+        ],
+        "usage": [
+          "Okrasná záhradná rastlina."
+        ],
+        "interestingFacts": [
+          "Kvitne súčasne s rašením listov, čím sa líši od väčšiny magnólií."
         ]
       }
     ]
@@ -68,86 +135,120 @@
       {
         "id": "2-1",
         "name": "Veternica hájna (Anemone nemorosa)",
-        "flags": [
-          "☠️ JEDOVATÁ"
-        ],
+        "flags": ["☠️ JEDOVATÁ"],
         "systematics": {
           "Čeľaď": "Iskerníkovité (Ranunculaceae)",
           "Rod": "Veternica (Anemone)",
-          "Druh": "Veternica hájna (Anemone nemorosa)"
+          "Druh": "Veternica hájna"
         },
         "morphology": [
-          "Nízka trváca bylina (10–25 cm).",
-          "Listy: dlhostopkaté, 3-dielne, hlboko zárezované.",
-          "Kvety: biele, niekedy s nádychom do ružova."
+          "Trváca bylina (10–25 cm) s tenkým podzemkom.",
+          "Kvety: biele, s mnohými tyčinkami."
         ],
         "occurrence": [
-          "Listnaté a zmiešané lesy, háje.",
-          "Hojná na celom Slovensku."
+          "Listnaté lesy, háje, hojná na celom Slovensku."
         ],
         "usage": [
-          "Estetická funkcia v jarnom lese.",
-          "Toxická (protoanemonín dráždi kožu)."
+          "Vizuálna estetika jarného lesa.",
+          "Toxická (dráždi pokožku)."
         ],
         "interestingFacts": [
-          "Kvitne v jarnom aspekte pred olistením stromov."
+          "Jej semená roznášajú mravce (myrmekochória)."
         ]
       },
       {
         "id": "2-2",
         "name": "Poniklec lúčny (Pulsatilla pratensis)",
-        "flags": [
-          "☠️ JEDOVATÁ",
-          "🌿 LIEČIVÁ",
-          "🔒 CHRÁNENÁ"
-        ],
+        "flags": ["☠️ JEDOVATÁ", "🌿 LIEČIVÁ", "🔒 CHRÁNENÁ"],
         "systematics": {
           "Čeľaď": "Iskerníkovité (Ranunculaceae)",
           "Rod": "Poniklec (Pulsatilla)",
-          "Druh": "Poniklec lúčny (Pulsatilla pratensis)"
+          "Druh": "Poniklec lúčny"
         },
         "morphology": [
-          "Trváca bylina (10–30 cm), celá husto chlpatá.",
-          "Kvety: zvončekovité, tmavofialové, ovisnuté."
+          "Trváca bylina (10–30 cm), husto chlpatá.",
+          "Kvety: tmavofialové, zvončekovité, ovisnuté."
         ],
         "occurrence": [
-          "Slnečné stráne, stepné lúky.",
-          "V SR vzácny, zákonom chránený."
+          "Slnečné stráne, stepné lúky, suché trávnaté svahy."
         ],
         "usage": [
-          "V minulosti ľudové liečiteľstvo.",
+          "V homeopatii (Pulsatilla).",
           "Okrasná skalnička."
         ],
         "interestingFacts": [
-          "Chĺpky fungujú ako tepelná izolácia pred mrazmi."
+          "Chĺpky chránia rastlinu pred jarnými mrazmi."
         ]
       },
       {
         "id": "2-3",
         "name": "Prilbica modrá (Aconitum napellus)",
-        "flags": [
-          "☠️ VEĽMI JEDOVATÁ"
-        ],
+        "flags": ["☠️ VEĽMI JEDOVATÁ"],
         "systematics": {
           "Čeľaď": "Iskerníkovité (Ranunculaceae)",
           "Rod": "Prilbica (Aconitum)",
-          "Druh": "Prilbica modrá (Aconitum napellus)"
+          "Druh": "Prilbica modrá"
         },
         "morphology": [
-          "Trváca bylina vysoká 0,5–1,5 m.",
-          "Kvety: tmavomodré, horný lístok pripomína prilbu.",
-          "Koreň: hľuzovitý, čierny."
+          "Trváca bylina vysoká až 1,5 m.",
+          "Kvety: tmavomodré, horný lístok má tvar prilby."
         ],
         "occurrence": [
-          "Horské oblasti, vlhké a humózne pôdy.",
-          "Alpy, Karpaty."
+          "Horské oblasti, vlhké lúky, brehy potokov."
         ],
         "usage": [
-          "Jedna z najjedovatejších rastlín Európy.",
-          "Obsahuje akonitín, prudký jed."
+          "Prudko jedovatá (obsahuje akonitín).",
+          "V minulosti sa používala na otrávené šípy."
         ],
         "interestingFacts": [
-          "V antike sa používala na otrávené šípy."
+          "Je považovaná za najjedovatejšiu rastlinu Európy."
+        ]
+      },
+      {
+        "id": "2-4",
+        "name": "Iskerník prudký (Ranunculus acris)",
+        "flags": ["☠️ JEDOVATÝ"],
+        "systematics": {
+          "Čeľaď": "Iskerníkovité (Ranunculaceae)",
+          "Rod": "Iskerník (Ranunculus)",
+          "Druh": "Iskerník prudký"
+        },
+        "morphology": [
+          "Trváca bylina (30–80 cm).",
+          "Kvety: žiarivo žlté, lesklé, 5-četné."
+        ],
+        "occurrence": [
+          "Vlhké lúky, pasienky, okraje ciest."
+        ],
+        "usage": [
+          "Jedovatý pre dobytok (v sennom stave toxicita klesá)."
+        ],
+        "interestingFacts": [
+          "Lesklý povrch kvetov funguje ako parabolické zrkadlo pre hmyz."
+        ]
+      },
+      {
+        "id": "2-5",
+        "name": "Záružlie močiarne (Caltha palustris)",
+        "flags": ["☠️ JEDOVATÉ"],
+        "systematics": {
+          "Čeľaď": "Iskerníkovité (Ranunculaceae)",
+          "Rod": "Záružlie (Caltha)",
+          "Druh": "Záružlie močiarne"
+        },
+        "morphology": [
+          "Trváca bylina (15–40 cm) s dutými stonkami.",
+          "Listy: obličkovité, lesklé.",
+          "Kvety: zlatožlté, veľké."
+        ],
+        "occurrence": [
+          "Mokrade, brehy potokov, podmáčané lúky."
+        ],
+        "usage": [
+          "Okrasná rastlina brehov jazierok."
+        ],
+        "interestingFacts": [
+          "Jedna z prvých kvitnúcich rastlín na brehoch vôd."
         ]
       }
     ]
@@ -159,53 +260,119 @@
       {
         "id": "3-1",
         "name": "Mak siaty (Papaver somniferum)",
-        "flags": [
-          "☠️ JEDOVATÝ",
-          "🌿 LIEČIVÝ"
-        ],
+        "flags": ["☠️ JEDOVATÝ", "🌿 LIEČIVÝ"],
         "systematics": {
           "Čeľaď": "Makovité (Papaveraceae)",
           "Rod": "Mak (Papaver)",
-          "Druh": "Mak siaty (Papaver somniferum)"
+          "Druh": "Mak siaty"
         },
         "morphology": [
-          "Jednoročná bylina, výška 50–120 cm.",
-          "Obsahuje biele mlieko (latex)."
+          "Jednoročná bylina (50–120 cm).",
+          "Obsahuje mliečnu šťavu (latex) s alkaloidmi."
         ],
         "occurrence": [
-          "Kultúrna rastlina, pestovaná na poliach."
+          "Pestovaný ako poľnohospodárska plodina."
         ],
         "usage": [
-          "Semená v potravinárstve.",
-          "Ópium vo farmácii (morfín, kodeín)."
+          "Potravinárstvo (semená).",
+          "Medicína (morfín, kodeín)."
         ],
         "interestingFacts": [
-          "Pestovanie je v mnohých krajinách regulované."
+          "Pestovanie potravinárskeho maku má na Slovensku dlhú tradíciu."
         ]
       },
       {
         "id": "3-2",
-        "name": "Srdcovka nádherná (Lamprocapnos spectabilis)",
-        "flags": [
-          "☠️ MIERNE JEDOVATÁ"
+        "name": "Mak vlčí (Papaver rhoeas)",
+        "flags": ["☠️ MIERNE JEDOVATÝ"],
+        "systematics": {
+          "Čeľaď": "Makovité (Papaveraceae)",
+          "Rod": "Mak (Papaver)",
+          "Druh": "Mak vlčí"
+        },
+        "morphology": [
+          "Jednoročná bylina (20–80 cm), stonka štetinatá.",
+          "Kvety: žiarivo červené, často s čiernou škvrnou v strede."
         ],
+        "occurrence": [
+          "Rumoviská, okraje polí, narušené pôdy."
+        ],
+        "usage": [
+          "Okvetné lístky v bylinných čajoch.",
+          "Symbol spomienky na obete vojen."
+        ],
+        "interestingFacts": [
+          "Semená si zachovávajú klíčivosť v pôde desiatky rokov."
+        ]
+      },
+      {
+        "id": "3-3",
+        "name": "Lastovičník väčší (Chelidonium majus)",
+        "flags": ["☠️ JEDOVATÝ", "🌿 LIEČIVÝ"],
+        "systematics": {
+          "Čeľaď": "Makovité (Papaveraceae)",
+          "Rod": "Lastovičník (Chelidonium)",
+          "Druh": "Lastovičník väčší"
+        },
+        "morphology": [
+          "Trváca bylina (30–80 cm).",
+          "Obsahuje oranžovú mliečnu šťavu."
+        ],
+        "occurrence": [
+          "Ploty, múry, okraje lesov, synantropné miesta."
+        ],
+        "usage": [
+          "V liečiteľstve na bradavice (vonkajšie použitie).",
+          "Alkaloidy v hepatológii."
+        ],
+        "interestingFacts": [
+          "Názov pochádza z gréckeho chelidon (lastovička)."
+        ]
+      },
+      {
+        "id": "3-4",
+        "name": "Zemedým lekársky (Fumaria officinalis)",
+        "flags": ["🌿 LIEČIVÝ"],
+        "systematics": {
+          "Čeľaď": "Makovité (Papaveraceae)",
+          "Rod": "Zemedým (Fumaria)",
+          "Druh": "Zemedým lekársky"
+        },
+        "morphology": [
+          "Jednoročná bylina (10–40 cm), jemná, modrozelená.",
+          "Kvety: malé, ružovofialové s tmavou špičkou."
+        ],
+        "occurrence": [
+          "Záhrady, polia, rumoviská."
+        ],
+        "usage": [
+          "Podpora funkcie žlčníka a pečene."
+        ],
+        "interestingFacts": [
+          "Meno pochádza z efektu 'dymu zo zeme', ktorý tvoria jeho jemné porasty."
+        ]
+      },
+      {
+        "id": "3-5",
+        "name": "Srdcovka nádherná (Lamprocapnos spectabilis)",
+        "flags": ["☠️ MIERNE JEDOVATÁ"],
         "systematics": {
           "Čeľaď": "Makovité (Papaveraceae)",
           "Rod": "Srdcovka (Lamprocapnos)",
-          "Druh": "Srdcovka nádherná (Lamprocapnos spectabilis)"
+          "Druh": "Srdcovka nádherná"
         },
         "morphology": [
           "Trváca bylina s krehkými stonkami.",
-          "Kvety: srdcovité, ružovo-biele, visiace v radoch."
+          "Kvety: srdcovité, ružovo-biele, visiace v oblúkoch."
         ],
         "occurrence": [
-          "Pôvodom z Ázie, pestovaná v záhradách."
+          "Pestovaná v záhradách ako okrasná trvalka."
         ],
         "usage": [
-          "Obľúbená okrasná trvalka."
+          "Dekoratívna funkcia."
         ],
         "interestingFacts": [
-          "Po odkvitnutí v lete nadzemná časť často úplne odumrie."
+          "Jedna z najstarších a najobľúbenejších vidieckych záhradných kvetín."
         ]
       }
     ]
@@ -217,26 +384,25 @@
       {
         "id": "4-1",
         "name": "Lekno biele (Nymphaea alba)",
-        "flags": [
-          "🔒 CHRÁNENÉ"
-        ],
+        "flags": ["🔒 CHRÁNENÉ"],
         "systematics": {
           "Čeľaď": "Leknovité (Nymphaeaceae)",
           "Rod": "Lekno (Nymphaea)",
-          "Druh": "Lekno biele (Nymphaea alba)"
+          "Druh": "Lekno biele"
         },
         "morphology": [
-          "Vodná rastlina s plávajúcimi listami.",
-          "Kvety: biele, veľké, so žltým stredom."
+          "Trváca vodná bylina s hrubým podzemkom.",
+          "Listy: plávajúce, okrúhle, tmavozelené.",
+          "Kvety: biele, veľké, voňavé."
         ],
         "occurrence": [
-          "Stojaté a pomaly tečúce vody."
+          "Stojaté a pomaly tečúce vody, mŕtve ramená riek."
         ],
         "usage": [
           "Okrasná vodná rastlina."
         ],
         "interestingFacts": [
-          "Kvet sa otvára cez deň a na noc sa zatvára a klesá pod hladinu."
+          "Symbol čistoty a harmónie."
         ]
       },
       {
@@ -246,19 +412,89 @@
         "systematics": {
           "Čeľaď": "Leknovité (Nymphaeaceae)",
           "Rod": "Leknica (Nuphar)",
-          "Druh": "Leknica žltá (Nuphar lutea)"
+          "Druh": "Leknica žltá"
         },
         "morphology": [
-          "Podobná leknu, ale kvety sú menšie a žlté, polguľovité."
+          "Vodná rastlina s podvodnými aj plávajúcimi listami.",
+          "Kvety: menšie, žlté, polguľovité."
         ],
         "occurrence": [
-          "Stojaté vody, ramená riek."
+          "Podobné ako lekno biele, znáša však väčšie hĺbky."
         ],
         "usage": [
-          "Úkryt pre vodné živočíchy."
+          "Podpora vodných ekosystémov."
         ],
         "interestingFacts": [
-          "Jej plody pripomínajú džbánik."
+          "Jej kvety majú alkoholovú vôňu, ktorá vábi opeľovačov."
+        ]
+      },
+      {
+        "id": "4-3",
+        "name": "Lekno jasnobiele (Nymphaea candida)",
+        "flags": ["🔒 CHRÁNENÉ"],
+        "systematics": {
+          "Čeľaď": "Leknovité (Nymphaeaceae)",
+          "Rod": "Lekno (Nymphaea)",
+          "Druh": "Lekno jasnobiele"
+        },
+        "morphology": [
+          "Vodná bylina podobná leknu bielemu.",
+          "Kvety: biele, kalich je štvorhranný."
+        ],
+        "occurrence": [
+          "Severnejšia Európa, u nás veľmi vzácne alebo z kultivácie."
+        ],
+        "usage": [
+          "Okrasná vodná rastlina."
+        ],
+        "interestingFacts": [
+          "V Česku je kriticky ohrozeným druhom."
+        ]
+      },
+      {
+        "id": "4-4",
+        "name": "Viktória kráľovská (Victoria amazonica)",
+        "flags": ["🌟 EXOTICKÁ"],
+        "systematics": {
+          "Čeľaď": "Leknovité (Nymphaeaceae)",
+          "Rod": "Viktória (Victoria)",
+          "Druh": "Viktória kráľovská"
+        },
+        "morphology": [
+          "Obrovské plávajúce listy s vyvýšeným okrajom (priemer až 3 m).",
+          "Kvety: biele, neskôr ružové, kvitnú len v noci."
+        ],
+        "occurrence": [
+          "Povodí rieky Amazonka v Južnej Amerike."
+        ],
+        "usage": [
+          "Atrakcia v botanických záhradách."
+        ],
+        "interestingFacts": [
+          "Jej listy unesú váhu malého dieťaťa."
+        ]
+      },
+      {
+        "id": "4-5",
+        "name": "Leknica indická (Euryale ferox)",
+        "flags": ["🌟 EXOTICKÁ"],
+        "systematics": {
+          "Čeľaď": "Leknovité (Nymphaeaceae)",
+          "Rod": "Euryale",
+          "Druh": "Euryale ferox"
+        },
+        "morphology": [
+          "Jednoročná vodná rastlina s listami pokrytými ostňami.",
+          "Kvety: malé, jasnofialové."
+        ],
+        "occurrence": [
+          "Východná Ázia, India."
+        ],
+        "usage": [
+          "Semená (makhana) sú v Indii populárnou potravinou."
+        ],
+        "interestingFacts": [
+          "Všetky časti rastliny okrem kvetov sú silne ostnaté."
         ]
       }
     ]
@@ -274,43 +510,117 @@
         "systematics": {
           "Čeľaď": "Bukovité (Fagaceae)",
           "Rod": "Buk (Fagus)",
-          "Druh": "Buk lesný (Fagus sylvatica)"
+          "Druh": "Buk lesný"
         },
         "morphology": [
-          "Strom so sivou hladkou kôrou.",
-          "Plody: bukvice v ostinatej čiaške."
+          "Strom s hladkou, svetlosivou kôrou.",
+          "Listy: eliptické, na okraji brvité.",
+          "Plody: trojboké bukvice v drevnatej čiaške."
         ],
         "occurrence": [
-          "Rozšírený v európskych lesoch."
+          "Najrozšírenejší listnatý strom v strednej Európe."
         ],
         "usage": [
-          "Kvalitné tvrdé drevo na nábytok."
+          "Tvrdé drevo na nábytok, parkety.",
+          "Bukvice ako krmivo pre zver."
         ],
         "interestingFacts": [
-          "Bukové drevo je najvhodnejšie na ohýbaný nábytok."
+          "Vytvára husté porasty, pod ktoré preniká málo svetla."
         ]
       },
       {
         "id": "5-2",
+        "name": "Dub letný (Quercus robur)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Bukovité (Fagaceae)",
+          "Rod": "Dub (Quercus)",
+          "Druh": "Dub letný"
+        },
+        "morphology": [
+          "Mohutný strom s hlboko brázdenou kôrou.",
+          "Listy: krátkostopkaté, laločnaté.",
+          "Plody: žalude na dlhých stopkách."
+        ],
+        "occurrence": [
+          "Nížiny, lužné lesy, vlhšie pôdy."
+        ],
+        "usage": [
+          "Drevo odolné voči vode, stavebníctvo, nábytok.",
+          "Kôra obsahuje triesloviny."
+        ],
+        "interestingFacts": [
+          "Dožíva sa veku až 1 000 rokov."
+        ]
+      },
+      {
+        "id": "5-3",
+        "name": "Gaštan jedlý (Castanea sativa)",
+        "flags": ["🍴 POTRAVINA"],
+        "systematics": {
+          "Čeľaď": "Bukovité (Fagaceae)",
+          "Rod": "Gaštan (Castanea)",
+          "Druh": "Gaštan jedlý"
+        },
+        "morphology": [
+          "Strom s podlhovastými, ostro pílovitými listami.",
+          "Plody: jedlé gaštany v ostinatej čiaške."
+        ],
+        "occurrence": [
+          "Teplejšie polohy, vinohradnícke oblasti."
+        ],
+        "usage": [
+          "Potravinárstvo (pečené gaštany, pyré).",
+          "Kvalitné drevo."
+        ],
+        "interestingFacts": [
+          "Nesmie sa zamieňať s nejedlým gaštanom konským."
+        ]
+      },
+      {
+        "id": "5-4",
         "name": "Dub cerový (Quercus cerris)",
         "flags": [],
         "systematics": {
           "Čeľaď": "Bukovité (Fagaceae)",
           "Rod": "Dub (Quercus)",
-          "Druh": "Dub cerový (Quercus cerris)"
+          "Druh": "Dub cerový"
         },
         "morphology": [
-          "Strom s hlboko brázdenou kôrou.",
-          "Čiaška žaluda je pokrytá dlhými šupinami."
+          "Strom s drsnou kôrou.",
+          "Čiašky žaludov sú husto pokryté dlhými šupinami."
         ],
         "occurrence": [
-          "Teplomilné dúbravy južného Slovenska."
+          "Južná Európa, u nás na teplých stráňach."
         ],
         "usage": [
-          "Palivové drevo, výroba podvalov."
+          "Palivové drevo, podvaly."
         ],
         "interestingFacts": [
-          "Jeho žalude sú pre ľudí horké kvôli tanínom."
+          "Jeho čiaška pripomína kožušinovú čiapku."
+        ]
+      },
+      {
+        "id": "5-5",
+        "name": "Dub zimný (Quercus petraea)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Bukovité (Fagaceae)",
+          "Rod": "Dub (Quercus)",
+          "Druh": "Dub zimný"
+        },
+        "morphology": [
+          "Podobný dubu letnému, ale listy majú dlhšie stopky.",
+          "Žalude sú takmer prisadnuté na vetvičkách."
+        ],
+        "occurrence": [
+          "Pahorkatiny, suchšie lesy."
+        ],
+        "usage": [
+          "Podobné ako u dubu letného."
+        ],
+        "interestingFacts": [
+          "Meno 'petraea' znamená skalný, rastie aj na kamenitých pôdach."
         ]
       }
     ]
@@ -322,53 +632,118 @@
       {
         "id": "6-1",
         "name": "Breza previsnutá (Betula pendula)",
-        "flags": [
-          "🌿 LIEČIVÁ"
-        ],
+        "flags": ["🌿 LIEČIVÁ"],
         "systematics": {
           "Čeľaď": "Brezovité (Betulaceae)",
           "Rod": "Breza (Betula)",
-          "Druh": "Breza previsnutá (Betula pendula)"
+          "Druh": "Breza previsnutá"
         },
         "morphology": [
-          "Charakteristická biela kôra.",
-          "Previsnuté konáre."
+          "Strom s bielou kôrou a previsnutými konármi.",
+          "Listy: trojuholníkové, pílovité."
         ],
         "occurrence": [
-          "Pionierska drevina, svetlé lesy."
+          "Svetlomilná pionierska drevina, lesy, záhrady."
         ],
         "usage": [
-          "Listy v liečiteľstve (močopudné).",
-          "Brezová šťava."
+          "Listy v čajoch na močové cesty.",
+          "Brezová voda v kozmetike."
         ],
         "interestingFacts": [
-          "Betulín v kôre ju chráni pred prehriatím slnkom."
+          "Biela kôra odráža slnko, čím chráni kmeň pred prehriatím."
         ]
       },
       {
         "id": "6-2",
-        "name": "Breza trpasličia (Betula nana)",
-        "flags": [
-          "❄️ RELIKT"
+        "name": "Jelša lepkavá (Alnus glutinosa)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Brezovité (Betulaceae)",
+          "Rod": "Jelša (Alnus)",
+          "Druh": "Jelša lepkavá"
+        },
+        "morphology": [
+          "Strom s tmavou popraskanou kôrou.",
+          "Mladé výhonky a listy sú lepkavé.",
+          "Plody: zdrevnatelé šuštičky."
         ],
+        "occurrence": [
+          "Brehy potokov, riek, mokrade."
+        ],
+        "usage": [
+          "Drevo odolné voči hnilobe vo vode (pilóty)."
+        ],
+        "interestingFacts": [
+          "Na koreňoch má hrčky s baktériami viažucimi dusík."
+        ]
+      },
+      {
+        "id": "6-3",
+        "name": "Breza trpasličia (Betula nana)",
+        "flags": ["❄️ RELIKT"],
         "systematics": {
           "Čeľaď": "Brezovité (Betulaceae)",
           "Rod": "Breza (Betula)",
-          "Druh": "Breza trpasličia (Betula nana)"
+          "Druh": "Breza trpasličia"
         },
         "morphology": [
-          "Nízky krík do 1 metra.",
-          "Listy takmer okrúhle, drobné."
+          "Nízky plazivý ker do 1 m.",
+          "Listy drobné, takmer okrúhle, vrúbkované."
         ],
         "occurrence": [
-          "Arktické oblasti, rašeliniská.",
-          "Glaciálny relikt."
+          "Arktída, vysokohorské rašeliniská."
         ],
         "usage": [
-          "Význam v tundrových ekosystémoch."
+          "Modelový organizmus pre štúdium doby ľadovej."
         ],
         "interestingFacts": [
-          "Prežila u nás od doby ľadovej len na vzácnych lokalitách."
+          "V našej prírode je vzácnym pozostatkom ľadových dôb."
+        ]
+      },
+      {
+        "id": "6-4",
+        "name": "Jelša sivá (Alnus incana)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Brezovité (Betulaceae)",
+          "Rod": "Jelša (Alnus)",
+          "Druh": "Jelša sivá"
+        },
+        "morphology": [
+          "Strom alebo ker so sivou hladkou kôrou.",
+          "Listy sú na rube sivo plstnaté a nie sú lepkavé."
+        ],
+        "occurrence": [
+          "Horská a podhorská oblasť, brehy riek."
+        ],
+        "usage": [
+          "Spevňovanie brehov a zalesňovanie strání."
+        ],
+        "interestingFacts": [
+          "Viac mrazuvzdorná než jelša lepkavá."
+        ]
+      },
+      {
+        "id": "6-5",
+        "name": "Breza plstnatá (Betula pubescens)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Brezovité (Betulaceae)",
+          "Rod": "Breza (Betula)",
+          "Druh": "Breza plstnatá"
+        },
+        "morphology": [
+          "Strom s matne bielou borkou.",
+          "Mladé konáriky a listy sú jemne chlpaté (plstnaté)."
+        ],
+        "occurrence": [
+          "Vlhké pôdy, rašeliniská, slatiny."
+        ],
+        "usage": [
+          "Zalesňovanie podmáčaných plôch."
+        ],
+        "interestingFacts": [
+          "Dobre znáša vysokú hladinu podzemnej vody."
         ]
       }
     ]
@@ -380,25 +755,25 @@
       {
         "id": "7-1",
         "name": "Lieska obyčajná (Corylus avellana)",
-        "flags": [],
+        "flags": ["🍴 POTRAVINA"],
         "systematics": {
           "Čeľaď": "Lieskovité (Corylaceae)",
           "Rod": "Lieska (Corylus)",
-          "Druh": "Lieska obyčajná (Corylus avellana)"
+          "Druh": "Lieska obyčajná"
         },
         "morphology": [
-          "Viacramenný ker.",
-          "Plody: lieskové oriešky."
+          "Viacramenný ker (2–5 m).",
+          "Plody: lieskové oriešky v listovom obale."
         ],
         "occurrence": [
-          "Okraje lesov, medze."
+          "Okraje lesov, kroviny, živé ploty."
         ],
         "usage": [
-          "Potravinárstvo (oriešky).",
-          "Drevo na prútené výrobky."
+          "Oriešky v cukrárstve.",
+          "Prútiky na pletenie košov."
         ],
         "interestingFacts": [
-          "Kvitne veľmi skoro na jar, je dôležitá pre včely."
+          "Jej peľ je dôležitý pre včely, ale silne alergický pre ľudí."
         ]
       },
       {
@@ -408,21 +783,90 @@
         "systematics": {
           "Čeľaď": "Lieskovité (Corylaceae)",
           "Rod": "Hrab (Carpinus)",
-          "Druh": "Hrab obyčajný (Carpinus betulus)"
+          "Druh": "Hrab obyčajný"
         },
         "morphology": [
-          "Strom s hladkou sivou kôrou.",
-          "Veľmi tvrdé drevo."
+          "Strom s hladkou sivou kôrou a svalcovitým kmeňom.",
+          "Listy s výraznou žilnatinou."
         ],
         "occurrence": [
-          "Súčasť dubovo-hrabových lesov."
+          "Listnaté lesy pahorkatín."
         ],
         "usage": [
-          "Nástroje, klavírne mechaniky.",
-          "Živé ploty."
+          "Veľmi tvrdé drevo (hrabové drevo).",
+          "Ideálny na strihané živé ploty."
         ],
         "interestingFacts": [
-          "Hrabové listy na zimu zhnednú, ale neopadnú."
+          "Jeho drevo je také husté, že len ťažko pláva."
+        ]
+      },
+      {
+        "id": "7-3",
+        "name": "Lieska turecká (Corylus colurna)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Lieskovité (Corylaceae)",
+          "Rod": "Lieska (Corylus)",
+          "Druh": "Lieska turecká"
+        },
+        "morphology": [
+          "Jediná lieska, ktorá rastie ako vysoký strom.",
+          "Oriešky sú v hlboko strihanom obale."
+        ],
+        "occurrence": [
+          "Pôvodom z Balkánu a Malej Ázie, sádza sa v mestách."
+        ],
+        "usage": [
+          "Okrasný mestský strom, odolný voči suchu."
+        ],
+        "interestingFacts": [
+          "Má korkovitú kôru, ktorá ju chráni pred horúčavami."
+        ]
+      },
+      {
+        "id": "7-4",
+        "name": "Hrab východný (Carpinus orientalis)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Lieskovité (Corylaceae)",
+          "Rod": "Hrab (Carpinus)",
+          "Druh": "Hrab východný"
+        },
+        "morphology": [
+          "Nižší strom alebo ker.",
+          "Listy menšie ako u hrabu obyčajného."
+        ],
+        "occurrence": [
+          "Juhovýchodná Európa, skalnaté svahy."
+        ],
+        "usage": [
+          "Spevňovanie pôdy na suchých stráňach."
+        ],
+        "interestingFacts": [
+          "Často sa používa na pestovanie bonsajov."
+        ]
+      },
+      {
+        "id": "7-5",
+        "name": "Habrovec habrolistý (Ostrya carpinifolia)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Lieskovité (Corylaceae)",
+          "Rod": "Habrovec (Ostrya)",
+          "Druh": "Habrovec habrolistý"
+        },
+        "morphology": [
+          "Strom vzhľadom pripomínajúci hrab.",
+          "Plody v nafúknutých obaloch pripomínajú chmeľ."
+        ],
+        "occurrence": [
+          "Južná Európa, vápencové hory."
+        ],
+        "usage": [
+          "Okrasná drevina, cenené tvrdé drevo."
+        ],
+        "interestingFacts": [
+          "V angličtine sa volá 'Hop-hornbeam' kvôli podobnosti plodov s chmeľom."
         ]
       }
     ]
@@ -434,51 +878,118 @@
       {
         "id": "8-1",
         "name": "Lipa malolistá (Tilia cordata)",
-        "flags": [
-          "🌿 LIEČIVÁ",
-          "🇸🇰 NÁRODNÝ SYMBOL"
-        ],
+        "flags": ["🌿 LIEČIVÁ", "🇸🇰 NÁRODNÝ SYMBOL"],
         "systematics": {
           "Čeľaď": "Lipovité (Tiliaceae)",
           "Rod": "Lipa (Tilia)",
-          "Druh": "Lipa malolistá (Tilia cordata)"
+          "Druh": "Lipa malolistá"
         },
         "morphology": [
-          "Srdcovité listy.",
-          "Voniavé žltkasté kvety s listeňom."
+          "Strom s košatou korunou.",
+          "Listy: srdcovité, menšie.",
+          "Kvety: v súkvetí s veľkým listeňom."
         ],
         "occurrence": [
-          "Lesy, parky, lipové aleje."
+          "Domáca drevina v celej strednej Európe."
         ],
         "usage": [
-          "Čaj proti nachladnutiu.",
-          "Rezbárske drevo."
+          "Lekárstvo (lipový kvet), medonosná rastlina.",
+          "Rezbárske drevo (mäkké)."
         ],
         "interestingFacts": [
-          "Lipa je symbolom Slovanov."
+          "Považuje sa za strom lásky a mieru."
         ]
       },
       {
         "id": "8-2",
+        "name": "Lipa veľkolistá (Tilia platyphyllos)",
+        "flags": ["🌿 LIEČIVÁ"],
+        "systematics": {
+          "Čeľaď": "Lipovité (Tiliaceae)",
+          "Rod": "Lipa (Tilia)",
+          "Druh": "Lipa veľkolistá"
+        },
+        "morphology": [
+          "Podobná malolistej, ale listy sú väčšie a obojstranne chlpaté.",
+          "Kvitne o dva týždne skôr."
+        ],
+        "occurrence": [
+          "Teplejšie listnaté lesy, sádza sa v parkoch."
+        ],
+        "usage": [
+          "Rovnaké ako u lipy malolistej."
+        ],
+        "interestingFacts": [
+          "Najstaršie a najmohutnejšie lipy u nás bývajú práve veľkolisté."
+        ]
+      },
+      {
+        "id": "8-3",
         "name": "Lipa strieborná (Tilia tomentosa)",
         "flags": [],
         "systematics": {
           "Čeľaď": "Lipovité (Tiliaceae)",
           "Rod": "Lipa (Tilia)",
-          "Druh": "Lipa strieborná (Tilia tomentosa)"
+          "Druh": "Lipa strieborná"
         },
         "morphology": [
-          "Listy na spodnej strane bielo plstnaté.",
-          "Odolná voči mestskému znečisteniu."
+          "Strom, ktorého listy sú na spodnej strane bielo plstnaté.",
+          "Pri vetre sa listy otáčajú a koruna pôsobí strieborne."
         ],
         "occurrence": [
-          "Pôvodom z Balkánu, sádza sa v mestách."
+          "Balkán, u nás hojne vysádzaná v mestách."
         ],
         "usage": [
-          "Okrasný mestský strom."
+          "Vynikajúci okrasný strom pre mestské aleje."
         ],
         "interestingFacts": [
-          "Jej nektár môže byť pre čmeliaky mierne toxický."
+          "Jej kvety môžu byť pre včely toxické kvôli obsahu cukru manózy."
+        ]
+      },
+      {
+        "id": "8-4",
+        "name": "Lipa zelená (Tilia euchlora)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Lipovité (Tiliaceae)",
+          "Rod": "Lipa (Tilia)",
+          "Druh": "Lipa zelená"
+        },
+        "morphology": [
+          "Strom s pravidelnou korunou a lesklými tmavozelenými listami.",
+          "Dolné konáre majú tendenciu prevísať."
+        ],
+        "occurrence": [
+          "Pestovaný kultivar, pravdepodobne kríženec."
+        ],
+        "usage": [
+          "Estetický strom do mestského prostredia."
+        ],
+        "interestingFacts": [
+          "Netrpí voškami tak ako ostatné lipy, preto sú listy vždy čisté."
+        ]
+      },
+      {
+        "id": "8-5",
+        "name": "Lipa americká (Tilia americana)",
+        "flags": [],
+        "systematics": {
+          "Čeľaď": "Lipovité (Tiliaceae)",
+          "Rod": "Lipa (Tilia)",
+          "Druh": "Lipa americká"
+        },
+        "morphology": [
+          "Strom s veľmi veľkými listami (až 20 cm).",
+          "Kvety sú väčšie ako u európskych líp."
+        ],
+        "occurrence": [
+          "Pôvodom zo Severnej Ameriky."
+        ],
+        "usage": [
+          "Okrasná drevina, drevo (basswood) na hudobné nástroje."
+        ],
+        "interestingFacts": [
+          "Americkí Indiáni používali jej lýko na výrobu pevných povrazov."
         ]
       }
     ]
