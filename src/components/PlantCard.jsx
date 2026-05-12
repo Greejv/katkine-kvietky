@@ -6,7 +6,11 @@ const PlantCard = ({ plant }) => {
   return (
     <Link to={`/rastlina/${plant.id}`} className="plant-card pressing-effect">
       <div className="plant-card-image">
-        <span className="material-symbols-outlined plant-placeholder-icon">eco</span>
+        {plant.image ? (
+          <img src={plant.image} alt={plant.name} className="plant-image" />
+        ) : (
+          <span className="material-symbols-outlined plant-placeholder-icon">eco</span>
+        )}
         {plant.flags && plant.flags.length > 0 && (
           <div className="plant-badges">
             {plant.flags.map((flag, index) => (
@@ -21,8 +25,8 @@ const PlantCard = ({ plant }) => {
           <span className="plant-family">{plant.systematics.Čeľaď}</span>
         </div>
         <div className="plant-meta">
-          <span className="material-symbols-outlined icon-sm">calendar_today</span>
-          <span className="plant-date">Zdroj: Herbár krytosemenných rastlín</span>
+          <span className="material-symbols-outlined icon-sm">local_florist</span>
+          <span className="plant-date">Zbierka 2026</span>
         </div>
       </div>
     </Link>

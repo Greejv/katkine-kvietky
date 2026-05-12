@@ -18,6 +18,22 @@ const PlantDetail = () => {
     );
   }
 
+  const handleShare = () => {
+    if (navigator.share) {
+      navigator.share({
+        title: plant.name,
+        text: `Pozri si túto rastlinu: ${plant.name}`,
+        url: window.location.href,
+      })
+        .then(() => console.log('Successful share'))
+        .catch((error) => console.log('Error sharing', error));
+    } else {
+      navigator.clipboard.writeText(window.location.href)
+        .then(() => alert('Odkaz bol skopírovaný do schránky'))
+        .catch((err) => console.error('Could not copy text: ', err));
+    }
+  };
+
   return (
     <div className="plant-detail-page">
       <div className="container">
@@ -28,9 +44,13 @@ const PlantDetail = () => {
 
         <div className="detail-hero">
           <div className="detail-image-container">
-            <div className="detail-placeholder">
-              <span className="material-symbols-outlined">eco</span>
-            </div>
+            {plant.image ? (
+              <img src={plant.image} alt={plant.name} className="detail-image" />
+            ) : (
+              <div className="detail-placeholder">
+                <span className="material-symbols-outlined">eco</span>
+              </div>
+            )}
             {plant.flags && plant.flags.length > 0 && (
               <div className="detail-badges">
                 {plant.flags.map((flag, idx) => (
@@ -46,11 +66,16 @@ const PlantDetail = () => {
             <p className="scientific-name">{plant.systematics.Druh || plant.name}</p>
             
             <div className="action-buttons">
-              <button className="btn btn-primary pressing-effect">
-                <span className="material-symbols-outlined">edit</span>
-                Upraviť záznam
-              </button>
-              <button className="btn btn-outline pressing-effect">
+              <a 
+                href={`https://www.google.com/search?q=${encodeURIComponent(plant.name)}`} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="btn btn-primary pressing-effect"
+              >
+                <span className="material-symbols-outlined">search</span>
+                Hľadať na Google
+              </a>
+              <button className="btn btn-outline pressing-effect" onClick={handleShare}>
                 <span className="material-symbols-outlined">share</span>
                 Zdieľať
               </button>

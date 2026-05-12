@@ -31,6 +31,17 @@
   opacity: 0.2;
 }
 
+.plant-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.plant-card:hover .plant-image {
+  transform: scale(1.05);
+}
+
 .plant-badges {
   position: absolute;
   top: 0.75rem;
