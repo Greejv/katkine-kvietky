@@ -48,12 +48,6 @@ function App() {
                         Chceme priblížiť krásu a rozmanitosť flóry každému študentovi. Digitálna forma nám umožňuje rýchlo vyhľadávať informácie a neustále dopĺňať nové poznatky o svete rastlín.
                       </p>
                     </div>
-                    <div className="card p-6" style={{ background: 'var(--surface-container-low)', borderRadius: 'var(--rounded-xl)' }}>
-                      <h3 className="headline-sm text-primary mb-3">Technológie</h3>
-                      <p className="body-md">
-                        Aplikácia je postavená na moderných webových technológiách ako React a Vite, čo zaručuje jej rýchlosť a responzivitu na všetkých zariadeniach, od mobilov až po počítače.
-                      </p>
-                    </div>
                   </div>
                   
                   <div className="sources-section mt-8">

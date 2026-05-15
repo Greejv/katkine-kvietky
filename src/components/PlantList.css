@@ -1,7 +1,7 @@
 .plant-list-layout {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 3rem;
+  gap: 3.5rem;
   padding-top: 3rem;
 }
 
@@ -33,7 +33,7 @@
 .plant-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: var(--gutter);
+  gap: calc(var(--gutter) * 1.2);
 }
 
 @media (min-width: 640px) {

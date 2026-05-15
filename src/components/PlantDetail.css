@@ -32,14 +32,15 @@
 
 .detail-image-container {
   aspect-ratio: 1 / 1;
-  background-color: var(--surface-container);
+  background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.32));
   border-radius: var(--rounded-2xl);
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 20px 50px rgba(15,82,56,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
 }
 
 .detail-placeholder {
@@ -68,7 +69,7 @@
 }
 
 .detail-badge {
-  background-color: var(--secondary-container);
+  background: linear-gradient(90deg, var(--secondary-container), rgba(77,101,83,0.9));
   color: var(--on-secondary-container);
   padding: 0.5rem 1rem;
   border-radius: var(--rounded-full);
@@ -76,7 +77,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 30px rgba(15,82,56,0.06);
 }
 
 .detail-header-info {
@@ -117,7 +118,7 @@
 }
 
 .btn-primary {
-  background-color: var(--primary);
+  background: linear-gradient(90deg, var(--primary), var(--primary-container));
   color: var(--on-primary);
 }
 
@@ -127,7 +128,7 @@
 }
 
 .btn-outline {
-  border: 1px solid var(--primary);
+  border: 1px solid rgba(15,82,56,0.12);
   color: var(--primary);
 }
 

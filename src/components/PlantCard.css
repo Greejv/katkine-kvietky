@@ -1,12 +1,12 @@
 .plant-card {
-  background-color: var(--surface-container-lowest);
-  border: 1px solid var(--outline-variant);
+  background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.34));
   border-radius: var(--rounded-lg);
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 10px 30px rgba(15,82,56,0.04);
+  border: 1px solid rgba(255,255,255,0.12);
 }
 
 .plant-card:hover {
@@ -23,6 +23,17 @@
   justify-content: center;
   position: relative;
   overflow: hidden;
+}
+
+.plant-card-image::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(0,0,0,0.06));
+  pointer-events: none;
 }
 
 .plant-placeholder-icon {
@@ -53,8 +64,8 @@
 }
 
 .plant-badge {
-  background-color: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(4px);
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(6px);
   padding: 0.25rem 0.5rem;
   border-radius: var(--rounded-full);
   font-size: 0.65rem;
@@ -62,7 +73,7 @@
   color: var(--primary);
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 6px 14px rgba(15,82,56,0.06);
 }
 
 .plant-card-info {
