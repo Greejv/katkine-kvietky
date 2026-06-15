@@ -2,20 +2,12 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: linear-gradient(180deg, transparent, rgba(15,82,56,0.01));
 }
 
 .main-content {
   flex: 1;
-  padding-bottom: 4rem;
-  padding-top: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
 }
 
-.about-page {
-  padding: 4rem 0;
-  max-width: 800px;
-}
-
-.mt-4 {
-  margin-top: 1.5rem;
-}
+.mt-4 { margin-top: 1.5rem; }
